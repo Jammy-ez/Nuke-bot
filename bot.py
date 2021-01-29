@@ -6,7 +6,7 @@ import time
 import os
 import numpy
 import string
-token = "ODA0Njg5MjE3NzA3NDQyMTg2.YBP_Ow.zwdg2podI1MP_ntTA_fVnnE2lVI"
+token = "token here"
 main = (''' 
 
 ███╗   ██╗██╗   ██╗██╗  ██╗███████╗    ██████╗  ██████╗ ████████╗
