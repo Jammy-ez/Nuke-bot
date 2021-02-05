@@ -1,0 +1,6 @@
+{
+    "comment": "leave silent off if u want it to not send messages while nuking logs will be printed in console instead, put it on if you do",
+    "token": "TOKEN HERE",
+    "silent": "on",
+    "prefix": "."
+  }
