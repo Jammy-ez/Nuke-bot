@@ -1,3 +1,1 @@
-pip install discord
-pip install random
-pip install numpy
+pip install --upgrade discord numpy
